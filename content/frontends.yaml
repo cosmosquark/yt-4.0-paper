@@ -14,6 +14,7 @@ frontends:
 - citations:
   - '@doi:10.21105/joss.01370'
   - '@doi:10.1088/1742-6596/1031/1/012024'
+  - '@doi:10.1177/10943420211022811'
   - '@doi:10.21105/joss.02513'
   - '@doi:10.21105/joss.01757'
   comments: 'AMReX is the successor to the BoxLib adaptive mesh refinement library
@@ -26,7 +27,9 @@ frontends:
   index_type:
   - grid
   name: amrex
-  usage_citations: []
+  usage_citations:
+  - '@doi:10.1093/mnras/stac439'
+  - '@doi:10.1016/j.cpc.2022.108457'
 - citations:
   - '@amrvac-paper'
   - '@doi:10.1088/0067-0049/214/1/4'
@@ -138,7 +141,8 @@ frontends:
   - '@doi:10.1103/PhysRevD.103.063525'
   - '@doi:10.1103/PhysRevD.105.023516'
   - '@doi:10.1016/j.cpc.2022.108457'
-- citations: []
+- citations:
+  - '@doi:10.5334/jors.119'
   comments: 'Cf/Radial is a CF-compliant NetCDF convention for radar and lidar data.
 
     `yt` supports both Cartesian-gridded CfRadial files and native polar-coordinate
@@ -149,7 +153,8 @@ frontends:
   - grid
   name: cf_radial
   usage_citations: []
-- citations: []
+- citations:
+  - '@doi:10.3847/1538-4365/ab7aff'
   comments: 'CHIMERA is a multiphysics simulation code used in studies of core-collapse
     supernovae and supported through a dedicated frontend in `yt`.
 
