@@ -12,6 +12,22 @@ frontends:
   name: ahf
   usage_citations: []
 - citations:
+  - '@doi:10.21105/joss.01370'
+  - '@doi:10.1088/1742-6596/1031/1/012024'
+  - '@doi:10.21105/joss.02513'
+  - '@doi:10.21105/joss.01757'
+  comments: 'AMReX is the successor to the BoxLib adaptive mesh refinement library
+    and, in `yt`, supports codes that utilize the native BoxLib/AMReX binary output.
+
+    The historical `boxlib` frontend remains available for backward compatibility,
+    but current development follows the `amrex` name.
+
+    '
+  index_type:
+  - grid
+  name: amrex
+  usage_citations: []
+- citations:
   - '@amrvac-paper'
   - '@doi:10.1088/0067-0049/214/1/4'
   - '@doi:10.3847/1538-4365/aaa6c8'
@@ -122,6 +138,26 @@ frontends:
   - '@doi:10.1103/PhysRevD.103.063525'
   - '@doi:10.1103/PhysRevD.105.023516'
   - '@doi:10.1016/j.cpc.2022.108457'
+- citations: []
+  comments: 'Cf/Radial is a CF-compliant NetCDF convention for radar and lidar data.
+
+    `yt` supports both Cartesian-gridded CfRadial files and native polar-coordinate
+    data, which may be gridded through Py-ART for subsequent analysis and visualization.
+
+    '
+  index_type:
+  - grid
+  name: cf_radial
+  usage_citations: []
+- citations: []
+  comments: 'CHIMERA is a multiphysics simulation code used in studies of core-collapse
+    supernovae and supported through a dedicated frontend in `yt`.
+
+    '
+  index_type:
+  - grid
+  name: chimera
+  usage_citations: []
 - citations:
   - '@doi:10.1088/0067-0049/217/2/24'
   comments: 'CHOLLA is a uniform-resolution grid code operating almost entirely on GPUs.'
