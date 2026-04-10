@@ -1436,5 +1436,225 @@
     "title": "Gravitational torques dominate the dynamics of angular momentum of the accreted gas at $z>2$",
     "container-title": "in prep.",
     "year": 2021
+  },
+  {
+    "id": "doi:10.1177/10943420211022811",
+    "type": "article-journal",
+    "DOI": "10.1177/10943420211022811",
+    "URL": "https://doi.org/10.1177/10943420211022811",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Weiqun"
+      },
+      {
+        "family": "Myers",
+        "given": "Andrew"
+      },
+      {
+        "family": "Gott",
+        "given": "Kevin"
+      },
+      {
+        "family": "Almgren",
+        "given": "Ann"
+      },
+      {
+        "family": "Bell",
+        "given": "John"
+      }
+    ],
+    "title": "AMReX: Block-structured adaptive mesh refinement for multiphysics applications",
+    "container-title": "The International Journal of High Performance Computing Applications",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6
+        ]
+      ]
+    },
+    "volume": "35",
+    "issue": "6",
+    "page": "508-526"
+  },
+  {
+    "id": "doi:10.1093/mnras/stac439",
+    "type": "article-journal",
+    "DOI": "10.1093/mnras/stac439",
+    "URL": "https://doi.org/10.1093/mnras/stac439",
+    "author": [
+      {
+        "family": "Wibking",
+        "given": "Benjamin D."
+      },
+      {
+        "family": "Krumholz",
+        "given": "Mark R."
+      }
+    ],
+    "title": "quokka: a code for two-moment AMR radiation hydrodynamics on GPUs",
+    "container-title": "Monthly Notices of the Royal Astronomical Society",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5
+        ]
+      ]
+    },
+    "volume": "512",
+    "issue": "1",
+    "page": "1430-1449"
+  },
+  {
+    "id": "doi:10.1016/j.cpc.2022.108457",
+    "type": "article-journal",
+    "DOI": "10.1016/j.cpc.2022.108457",
+    "URL": "https://doi.org/10.1016/j.cpc.2022.108457",
+    "author": [
+      {
+        "family": "Zoni",
+        "given": "Edoardo"
+      },
+      {
+        "family": "Lehe",
+        "given": "Remi"
+      },
+      {
+        "family": "Shapoval",
+        "given": "Olga"
+      },
+      {
+        "family": "Belkin",
+        "given": "Daniel"
+      },
+      {
+        "family": "Zaïm",
+        "given": "Neil"
+      },
+      {
+        "family": "Fedeli",
+        "given": "Luca"
+      },
+      {
+        "family": "Vincenti",
+        "given": "Henri"
+      },
+      {
+        "family": "Vay",
+        "given": "Jean-Luc"
+      }
+    ],
+    "title": "A hybrid nodal-staggered pseudo-spectral electromagnetic particle-in-cell method with finite-order centering",
+    "container-title": "Computer Physics Communications",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    },
+    "volume": "279",
+    "page": "108457"
+  },
+  {
+    "id": "doi:10.5334/jors.119",
+    "type": "article-journal",
+    "DOI": "10.5334/jors.119",
+    "URL": "https://doi.org/10.5334/jors.119",
+    "author": [
+      {
+        "family": "Helmus",
+        "given": "Jonathan J."
+      },
+      {
+        "family": "Collis",
+        "given": "Scott M."
+      }
+    ],
+    "title": "The Python ARM Radar Toolkit (Py-ART), a Library for Working with Weather Radar Data in the Python Programming Language",
+    "container-title": "Journal of Open Research Software",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          7
+        ]
+      ]
+    },
+    "volume": "4",
+    "issue": "1",
+    "page": "e25"
+  },
+  {
+    "id": "doi:10.3847/1538-4365/ab7aff",
+    "type": "article-journal",
+    "DOI": "10.3847/1538-4365/ab7aff",
+    "URL": "https://doi.org/10.3847/1538-4365/ab7aff",
+    "author": [
+      {
+        "family": "Bruenn",
+        "given": "Stephen W."
+      },
+      {
+        "family": "Blondin",
+        "given": "John M."
+      },
+      {
+        "family": "Hix",
+        "given": "W. Raphael"
+      },
+      {
+        "family": "Lentz",
+        "given": "Eric J."
+      },
+      {
+        "family": "Messer",
+        "given": "O. E. Bronson"
+      },
+      {
+        "family": "Mezzacappa",
+        "given": "Anthony"
+      },
+      {
+        "family": "Endeve",
+        "given": "Eirik"
+      },
+      {
+        "family": "Harris",
+        "given": "J. Austin"
+      },
+      {
+        "family": "Marronetti",
+        "given": "Pedro"
+      },
+      {
+        "family": "Budiardja",
+        "given": "Reuben D."
+      },
+      {
+        "family": "Chertkow",
+        "given": "Merek A."
+      },
+      {
+        "family": "Lee",
+        "given": "Ching Tsai"
+      }
+    ],
+    "title": "Chimera: A Massively Parallel Code for Core-collapse Supernova Simulations",
+    "container-title": "The Astrophysical Journal Supplement Series",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "volume": "248",
+    "issue": "1",
+    "page": "11"
   }
 ]
